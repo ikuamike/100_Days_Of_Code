@@ -1,5 +1,6 @@
-<!-- # 100 Days Of Code - Log
+# 100 Days Of Code - Log
 
+<!--
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
@@ -11,9 +12,9 @@
 -->
 ### Day 0: February 1, 2018 
 
-**Today's Progress**: Setting up 100 Days of Code repository
+**Today's Progress**: Setting up 100 Days of Code repository.
 
-**Thoughts:** Excited to begin this challenge, I hope to maintain consistency and grow my coding skills. I'm progressing on python and interests.
+**Thoughts:** Excited to begin this challenge, I hope to maintain consistency and grow my coding skills. I'm progressing on python and other interests like arduino.
 
 
 
