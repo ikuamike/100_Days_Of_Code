@@ -16,6 +16,9 @@
 
 **Thoughts:** Excited to begin this challenge, I hope to maintain consistency and grow my coding skills. I'm progressing on python and other interests like arduino.
 
+### Day 1: February 2, 2018 
+**Today's Progress**: Getting familiar with micropython.
 
+**Thoughts**: Some introduction to micropython which is a scaled down version of python for microcontrollers. Hope to come up with a project soon.
 
 
