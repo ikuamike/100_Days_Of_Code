@@ -21,4 +21,7 @@
 
 **Thoughts**: Some introduction to micropython which is a scaled down version of python for microcontrollers. Hope to come up with a project soon.
 
+### Day 2: February 3, 2018 
+**Today's Progress**: Setting micropython on nodemcu.
 
+**Thoughts**: Never thought of the capabilities of running python on a microcontroller but it's quite amazing. I was able to run python and also setup rshell which is a great micropython shell.
