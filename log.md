@@ -32,3 +32,10 @@
 **Thoughts:** I was able to add main.py script on the nodemcu that holds code you want to run once the board boots up. I implemented a simple blink led script.
 
 **Link to work:** [Blink LED](https://github.com/ikuamike/Blinking_LED_with_Micropython)
+
+### Day 4: February 5, 2018
+**Today's Progress:** More micropython
+
+**Thoughts:** Ran into some interface problems that were related to buffer size between nodemcu and serial connection, had a rough time but was able to solve it. Also learnt how to setup environment variables on ubuntu, so wasn't entirely frustrating.
+
+**Link to work:** N/A at the moment
