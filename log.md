@@ -4,11 +4,11 @@
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** 
 -->
 ### Day 0: February 1, 2018 
 
@@ -37,5 +37,12 @@
 **Today's Progress:** More micropython
 
 **Thoughts:** Ran into some interface problems that were related to buffer size between nodemcu and serial connection, had a rough time but was able to solve it. Also learnt how to setup environment variables on ubuntu, so wasn't entirely frustrating.
+
+**Link to work:** N/A at the moment
+
+### Day 5: February 6, 2018
+**Today's Progress:** Sockets on micropython 
+
+**Thoughts:** Learning about sockets and how to setup a http server on nodemcu was really interesting definitely got some project ideas for that
 
 **Link to work:** N/A at the moment
