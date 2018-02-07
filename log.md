@@ -2,7 +2,6 @@
 
 <!--
 ### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
 
 **Today's Progress**: 
 
@@ -46,3 +45,10 @@
 **Thoughts:** Learning about sockets and how to setup a http server on nodemcu was really interesting definitely got some project ideas for that
 
 **Link to work:** N/A at the moment
+
+### Day 6: February 7, 2018
+**Today's Progress**: More stuff to do with webserver
+
+**Thoughts:** It was interesting playing around with the webserver, but realized it is capable of what I want achieve. Still looking for a better way to run a webserver that can serve good web pages.
+
+**Link to work:** N/A 
