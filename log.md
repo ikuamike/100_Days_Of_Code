@@ -1,7 +1,7 @@
 # R1 - 100 Days Of Code - Log
 
 <!--
-### Day 0: February 30, 2016 (Example 1)
+### Day 0: February 30, 2016 
 
 **Today's Progress**: 
 
@@ -58,5 +58,13 @@
 **Today's Progress**: Decided to tryout mqtt with micropython
 
 **Thoughts:** After some frustration I finally came around to understand mqtt and how it is implemented on micropython. I decided to try and control an led using google assistant, ifttt and adafruit mqtt broker. It was certainly successful!! I will definitely have a write up soon.
+
+**Link to work:** N/A
+
+### Day 8: February 9, 2018 
+
+**Today's Progress**: OOP in python
+
+**Thoughts:** Today I decided to revisit object oriented programming in python after I got 3 months trial in pluralsight, it was a great way of understanding stuff I had doubts about like constructor methods.
 
 **Link to work:** N/A
