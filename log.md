@@ -68,3 +68,11 @@
 **Thoughts:** Today I decided to revisit object oriented programming in python after I got 3 months trial in pluralsight, it was a great way of understanding stuff I had doubts about like constructor methods.
 
 **Link to work:** N/A
+
+### Day 9: February 12, 2018
+
+**Today's Progress**: Packages and Modules
+
+**Thoughts:** I had missed two days of my challenge so I'll just compensate at the end, but I'm back. I am doing some learning on packages and modules on python.
+
+**Link to work:** N/A
