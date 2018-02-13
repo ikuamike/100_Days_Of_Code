@@ -76,3 +76,11 @@
 **Thoughts:** I had missed two days of my challenge so I'll just compensate at the end, but I'm back. I am doing some learning on packages and modules on python.
 
 **Link to work:** N/A
+
+### Day 10: February 13, 2018 
+
+**Today's Progress**: Some practice exercises
+
+**Thoughts:** Did some pratice exercises today on python from exercism to get better at solving basic challenges
+
+**Link to work:** [My exercism repo](https://github.com/ikuamike/exercism_python)
