@@ -84,3 +84,12 @@
 **Thoughts:** Did some pratice exercises today on python from exercism to get better at solving basic challenges
 
 **Link to work:** [My exercism repo](https://github.com/ikuamike/exercism_python)
+
+### Day 11: February 14, 2018 
+
+**Today's Progress**: stepper motor control
+
+**Thoughts:** Decided to research on some hardware control, learnt a bit about stepper motors and also how to control them 
+with microcontrollers and micropython
+
+**Link to work:** N/A
