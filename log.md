@@ -93,3 +93,11 @@
 with microcontrollers and micropython
 
 **Link to work:** N/A
+
+### Day 12: February 16, 2018 
+
+**Today's Progress**: Doing some list comprehension and for loops
+
+**Thoughts:** Did some coding tests on codingame
+
+**Link to work:** N/A
