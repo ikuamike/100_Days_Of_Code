@@ -101,3 +101,11 @@ with microcontrollers and micropython
 **Thoughts:** Did some coding tests on codingame
 
 **Link to work:** N/A
+
+### Day 13: February 17, 2018 
+
+**Today's Progress**: More lists and for loops
+
+**Thoughts:** Had a hard time on today's codingame challenge, but I'm getting better.
+
+**Link to work:** N/A
