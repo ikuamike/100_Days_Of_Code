@@ -109,3 +109,11 @@ with microcontrollers and micropython
 **Thoughts:** Had a hard time on today's codingame challenge, but I'm getting better.
 
 **Link to work:** N/A
+
+### Day 14: February 18, 2018 
+
+**Today's Progress**: Today not much was done but I decided to play around with a raspberry pi zero
+
+**Thoughts:** Found this awesome project I wanted to try that is related to infosec, it's p4wnp1
+
+**Link to work:** N/A
