@@ -117,3 +117,11 @@ with microcontrollers and micropython
 **Thoughts:** Found this awesome project I wanted to try that is related to infosec, it's p4wnp1
 
 **Link to work:** N/A
+
+### Day 15: February 19, 2018 
+
+**Today's Progress**: Practice challenges
+
+**Thoughts:** Today I was doing practice exercises from exercism to be better managed to finish about 4 of them
+
+**Link to work:** [https://github.com/ikuamike/exercism_python](https://github.com/ikuamike/exercism_python)
