@@ -125,3 +125,11 @@ with microcontrollers and micropython
 **Thoughts:** Today I was doing practice exercises from exercism to be better managed to finish about 4 of them
 
 **Link to work:** [https://github.com/ikuamike/exercism_python](https://github.com/ikuamike/exercism_python)
+
+### Day 15 & 16: February 30, 2016 
+
+**Today's Progress**: Practise exercises
+
+**Thoughts:** Exercism exercises and methods on strings
+
+**Link to work:** N/A
