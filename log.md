@@ -133,3 +133,10 @@ with microcontrollers and micropython
 **Thoughts:** Exercism exercises and methods on strings
 
 **Link to work:** N/A
+
+### Day 17: February 22, 2018 
+
+**Today's Progress**: Mutable sequences 
+
+**Thoughts:** Learnt about mutable sequences and common methods used on lists 
+
