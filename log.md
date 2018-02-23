@@ -144,4 +144,4 @@ with microcontrollers and micropython
 
 **Today's Progress**: Sets and dictionaries
 
-**Thoughts:** All about sets and dictionaries and the built-in methods for them
+**Thoughts:** All about sets and dictionaries and the built-in methods for them 
