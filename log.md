@@ -140,3 +140,8 @@ with microcontrollers and micropython
 
 **Thoughts:** Learnt about mutable sequences and common methods used on lists 
 
+### Day 18: February 23, 2018 
+
+**Today's Progress**: Sets and dictionaries
+
+**Thoughts:** All about sets and dictionaries and the built-in methods for them
