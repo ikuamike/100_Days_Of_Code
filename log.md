@@ -152,3 +152,19 @@ with microcontrollers and micropython
 **Today's Progress**: Sets and dictionaries
 
 **Thoughts:** All about sets and dictionaries and the built-in methods for them
+
+### Day 19: February 24, 2018
+
+**Today's Progress**: Bandit wargame
+
+**Thoughts:** finally finished bandit wargame from overthewire, really got me to get comfortable with the terminal 
+
+**Link to work:** [write-up](https://github.com/ikuamike/Bandit_Wargame)
+
+### Day 20: February 26, 2018
+
+**Today's Progress**: Iterables, conditions and loops
+
+**Thoughts:** Did a refresher on iterable objects, for-loops and if statements, the ternary operator was really interesting
+
+**Link to work:** N/A
