@@ -168,3 +168,11 @@ with microcontrollers and micropython
 **Thoughts:** Did a refresher on iterable objects, for-loops and if statements, the ternary operator was really interesting
 
 **Link to work:** N/A
+
+### Day 21: February 28, 2018 
+
+**Today's Progress**: While loops
+
+**Thoughts:** A dive into while loops and the itertools module in python
+
+**Link to work:** N/A
