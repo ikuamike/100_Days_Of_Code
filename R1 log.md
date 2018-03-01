@@ -176,3 +176,11 @@ with microcontrollers and micropython
 **Thoughts:** A dive into while loops and the itertools module in python
 
 **Link to work:** N/A
+
+### Day 22: March 1, 2018
+
+**Today's Progress**: hashcode2018
+
+**Thoughts:** Trying to solve hashcode 2018 challenge, Team Man's Not Hot 
+
+**Link to work:** N/A
