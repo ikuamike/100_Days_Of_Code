@@ -184,3 +184,11 @@ with microcontrollers and micropython
 **Thoughts:** Trying to solve hashcode 2018 challenge, Team Man's Not Hot 
 
 **Link to work:** N/A
+
+### Day 23, 24, 25: March 2, 3, 4 , 2018 
+
+**Today's Progress**: Had a lot to do over the weekend not fully on python
+
+**Thoughts:** I went for a hackathon and did not fully code on python but I have been doing a refresh on functions
+
+**Link to work:** N/A
