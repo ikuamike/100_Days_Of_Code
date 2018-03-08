@@ -192,3 +192,11 @@ with microcontrollers and micropython
 **Thoughts:** I went for a hackathon and did not fully code on python but I have been doing a refresh on functions
 
 **Link to work:** N/A
+
+### Day 26 : March 8, 2018 
+
+**Today's Progress**: Working on functions
+
+**Thoughts:** Learning about functions arguments and returns
+
+**Link to work:** N/A
