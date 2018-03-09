@@ -200,3 +200,11 @@ with microcontrollers and micropython
 **Thoughts:** Learning about functions arguments and returns
 
 **Link to work:** N/A
+
+### Day 27: March 9, 2018 
+
+**Today's Progress**: tools that python provides for saving time
+
+**Thoughts:** learnt about map, zip, filter that are great tools to work with on iterables
+
+**Link to work:**N/A
