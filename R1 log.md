@@ -208,3 +208,11 @@ with microcontrollers and micropython
 **Thoughts:** learnt about map, zip, filter that are great tools to work with on iterables
 
 **Link to work:**N/A
+
+### Day 28: March 10, 2018
+
+**Today's Progress**: Did a test that deals with general python
+
+**Thoughts:** Some oop refresh and functions
+
+**Link to work:** N/A
